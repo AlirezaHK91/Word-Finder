@@ -1,4 +1,4 @@
-package findOut_all_words_start_with_the_alphabet_you_type;
+package findOut_all_words_start_with_the_letter_you_type;
 
 import java.util.List;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package findOut_how_many_of_the_alphabet_you_type_are_in_text_or_book;
+package findOut_how_many_of_the_letter_you_type_are_in_text_or_book;
 
 import java.util.List;
 import java.util.Scanner;
