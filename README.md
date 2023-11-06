@@ -1,4 +1,4 @@
-# Simple Word-Finder Application in Java
+# Simple Word-Finder console Application in Java
 
 This repository contains a simple word-finder application developed in Java. The application allows users to input text and perform various analyses, including:
 
